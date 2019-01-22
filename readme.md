@@ -2,3 +2,6 @@
 
 ## run
 * 浏览器打开index.html
+
+## 预览
+* [click here](http://htmlpreview.github.io/?https://github.com/hlr12138/2048/blob/master/index.html)
